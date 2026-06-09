@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: #fabe86d3;
+}
+
+h1{
+    color: #a63e4a;;
+}
+
+button{
+    color:#4b3f41 ;
+    background-color: #f7ebacea;
+    text-align: center;
+}
+
+form{
+    display: block;
+    text-align: center;
+    color: #4b3f41;
+}
+
+.derecha{
+    text-align: left;
+}
+
+.flex{
+    display: flex;
+}
